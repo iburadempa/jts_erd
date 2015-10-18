@@ -12,9 +12,9 @@ jts_erd: Create an ERD from JSON-table-schemas
 .. toctree::
    :maxdepth: 2
 
-   intro.rst
-   install.rst
-   usage.rst
-   api/index.rst
+   src/intro.rst
+   src/install.rst
+   src/usage.rst
+   src/api/index.rst
 
 Source: https://github.com/iburadempa/jts_erd/
