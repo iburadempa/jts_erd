@@ -22,3 +22,6 @@ Depends on pygraphviz.
 """
 
 from .jts_erd import get_graph, save_svg
+
+__version__ = (0, 0, 1)
+
