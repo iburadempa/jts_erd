@@ -7,6 +7,6 @@ setup(name='jts_erd',
       url='http://github.com/iburadempa/jts_erd',
       author='ibu radempa',
       author_email='ibu@radempa.de',
-      license='MIT',
+      license='GPLv3',
       packages=['jts_erd'],
       zip_safe=False)
